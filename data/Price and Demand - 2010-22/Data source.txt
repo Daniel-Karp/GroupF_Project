@@ -1,0 +1,3 @@
+The data in this directory was manually downloaded from the following AEMO website:
+
+https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data
