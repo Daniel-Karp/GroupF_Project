@@ -1,0 +1,1 @@
+Link to ongoing Google Doc Meeting Minutes - https://docs.google.com/document/d/1IMmdY3rY9qNPTh88H0Rrr4e4JC_UQUIDBgxCGW2Fsxc/edit?usp=sharing
