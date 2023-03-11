@@ -1,3 +1,3 @@
-Link to project task management tool (Microsoft Planner)
+Link to project task management tool (ClickUp)
 
-https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.planner/_djb2_msteams_prefix_3882636402?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3AcWj4rlPkXIb_Kx7CEtBdVdiEY6cCtQE7OgRus87ItsM1%40thread.tacv2%22%7D&groupId=23b5a478-8277-4584-93ea-82df8015f6b4&tenantId=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3&allowXTenantAccess=false
+https://app.clickup.com/9003088866/v/s/90030198668
