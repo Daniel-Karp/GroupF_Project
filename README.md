@@ -16,7 +16,7 @@ Complete the information below regarding your group.
 
 ### Brief project description
 
-Describe your project in one paragraph.
+For this project, we will explore what optimal combination of weather and pricing data will result in the most accurate electricity demand forecasts. In order to address this question, we will develop an ensemble model utilising a combination of 3 of the most accurately reported unitary demand models from the literature to forecast electricity demand. This will be achieved using different combinations of weather and pricing data such that the effect of relying on each becomes evident. Any synergistic effects will also be noted.
 
 ## Repository structure
 
@@ -25,6 +25,7 @@ The repository has the following folder structure:
 - agendas: agendas for each weekly meeting with lecturers (left 24h before the next meeting)
 - checklists: teamwork checklist or a link to an account in a project task management tool
 - data: datasets for analysis
+- code: jupyter notebooks containing EDA and modelling
 - gantt_chart: Gantt chart or a link to an account in a project task management tool
 - minutes: minutes for each meeting (left not more than 24h after the corresponding meeting)
 - report: RMarkdown or Jupyter notebook report in progress
